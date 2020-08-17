@@ -33,9 +33,9 @@ The switch Pause, stops the circuit ( As shown in the figure ).
 The two switches works when they are closed.
 
 ### References
-1- Wikipedia. 555 timer IC. https://en.wikipedia.org/wiki/555_timer_IC
-2- Wikipedia. D flip-flop. https://en.wikipedia.org/wiki/Flip-flop_(electronics)#D_flipflop
-3- Wikipedia. Seven-segment display. https://en.wikipedia.org/wiki/Seven-segment_display
-4- Learn About Electronics. Digital Counters. http://www.learnabout-electronics.org/Digital/dig56.php
-5- Thomas L. Floyd, Digital Fundamentals 9th Edition, Pearson Prentice Hall, Pearson Education International New Jersey, 2007.
+1. Wikipedia. 555 timer IC. https://en.wikipedia.org/wiki/555_timer_IC
+2. Wikipedia. D flip-flop. https://en.wikipedia.org/wiki/Flip-flop_(electronics)#D_flipflop
+3. Wikipedia. Seven-segment display. https://en.wikipedia.org/wiki/Seven-segment_display
+4. Learn About Electronics. Digital Counters. http://www.learnabout-electronics.org/Digital/dig56.php
+5. Thomas L. Floyd, Digital Fundamentals 9th Edition, Pearson Prentice Hall, Pearson Education International New Jersey, 2007.
 6- Mark Balch, Digital Design – A comprehensive Guide to Digital Electronics and Computer System Architecture, McGraw-Hill Companies, Inc, New York, 2003.
